@@ -1,0 +1,364 @@
+[19-Sep-2020 18:57:08 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/skidrnbn/naimo.me/projetweb/upload.php on line 45
+[19-Sep-2020 18:57:53 America/New_York] PHP Warning:  ZipArchive::extractTo(): Permission denied in /home/skidrnbn/naimo.me/projetweb/upload.php on line 31
+[19-Sep-2020 18:57:53 America/New_York] PHP Warning:  ZipArchive::close(): Invalid or uninitialized Zip object in /home/skidrnbn/naimo.me/projetweb/upload.php on line 32
+[19-Sep-2020 18:59:08 America/New_York] PHP Warning:  ZipArchive::extractTo(): Permission denied in /home/skidrnbn/naimo.me/projetweb/upload.php on line 31
+[19-Sep-2020 18:59:08 America/New_York] PHP Warning:  ZipArchive::close(): Invalid or uninitialized Zip object in /home/skidrnbn/naimo.me/projetweb/upload.php on line 32
+[20-Sep-2020 08:55:13 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/skidrnbn/naimo.me/projetweb/upload.php on line 35
+[20-Sep-2020 08:55:19 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/skidrnbn/naimo.me/projetweb/upload.php on line 35
+[20-Sep-2020 08:58:21 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/skidrnbn/naimo.me/projetweb/upload.php on line 35
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/skidrnbn/naimo.me/projetweb/upload.php on line 35
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:58:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 08:59:37 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/skidrnbn/naimo.me/projetweb/upload.php on line 35
+[20-Sep-2020 09:00:44 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/skidrnbn/naimo.me/projetweb/upload.php on line 35
+[20-Sep-2020 09:03:07 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/skidrnbn/naimo.me/projetweb/upload.php on line 35
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:03:07 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 36
+[20-Sep-2020 09:04:29 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/skidrnbn/naimo.me/projetweb/upload.php on line 35
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:04:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/skidrnbn/naimo.me/projetweb/upload.php on line 35
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:06:05 America/New_York] PHP Warning:  fwrite() expects parameter 3 to be integer, string given in /home/skidrnbn/naimo.me/projetweb/upload.php on line 38
+[20-Sep-2020 09:07:08 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/skidrnbn/naimo.me/projetweb/upload.php on line 35
+[20-Sep-2020 09:09:29 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/skidrnbn/naimo.me/projetweb/upload.php on line 35
+[20-Sep-2020 09:13:24 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/skidrnbn/naimo.me/projetweb/upload.php on line 64
+[20-Sep-2020 18:38:09 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/skidrnbn/naimo.me/projetweb/upload.php on line 64
+[20-Sep-2020 18:55:00 America/New_York] PHP Parse error:  syntax error, unexpected 'header' (T_STRING), expecting ',' or ')' in /home/skidrnbn/naimo.me/projetweb/upload.php on line 44
+[20-Sep-2020 19:11:36 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/skidrnbn/naimo.me/projetweb/upload.php on line 46
