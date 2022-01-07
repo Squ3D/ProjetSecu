@@ -1,5 +1,13 @@
 # ProjetSecu
-Laboratoire utilisé afin de démontré des vulnérabilité. Ce projet a été réalisé dans le cadre d'un cours de cybersécurité.
+
+
+Conception d’une architecture Web vulnérable sous Linux. 
+L’idée est depentester cette architecture à l’aide d’outils utilisés par les pirates afin de
+détecter des vulnérabilités. L’objectif sera non seulement de détecter les
+vulnérabilités, les exploiter mais aussi de procéder une remédiation.
+Toujours en tenant compte des conditions on utilisera pour finaliser la
+sécurisation du site internet on vous demande d’utiliser un certificat SSL valide
+accrédité par une autorité de certification agrégé.
 
 ![alt text](https://i.ibb.co/XCymZzY/1.png)
 
