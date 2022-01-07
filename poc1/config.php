@@ -15,9 +15,9 @@ if (1 == $devMode) {
     $password = "bang";
     $dbName = "wnp";
 } else {
-    $username = "naimo_pentester";
-    $password = "lmaolmaol13300";
-    $dbName = "naimo_pentest";
+    $username = "";
+    $password = "";
+    $dbName = "";
 }
 
 
