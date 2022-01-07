@@ -5,7 +5,7 @@ Laboratoire utilisé afin de démontré des vulnérabilité. Ce projet a été r
 
 Lab 1 :
 
-![alt text](http://url/to/img.png)
+![alt text](https://i.ibb.co/MNHb1TP/2.png)
 
 - Directory Traversal
 - Injection SQL authenthification
@@ -13,14 +13,14 @@ Lab 1 :
 - Injection SQL blind Based
 
 Lab 2 :
-![alt text](http://url/to/img.png)
+![alt text](https://i.ibb.co/kmdkFkZ/3.png)
 
 - XSS
 - Reflected XSS
 - Persistant XSS
 
 Lab 3 :
-![alt text](http://url/to/img.png)
+![alt text](https://i.ibb.co/dcRYDNC/4.png)
 
 - Bypass Upload
 - Shell upload
