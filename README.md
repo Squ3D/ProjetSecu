@@ -1,5 +1,6 @@
 # ProjetSecu
 
+Tous les codes sources ici sont disponible à fin pédagogique. 
 
 Conception d’une architecture Web vulnérable sous Linux. 
 L’idée est depentester cette architecture à l’aide d’outils utilisés par les pirates afin de
